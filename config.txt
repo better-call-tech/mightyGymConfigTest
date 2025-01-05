@@ -1,0 +1,173 @@
+#### FIT FACTORY CLASS NAMES ####
+Eng1
+EngFinale
+Hero Academy
+Sports Ball
+EMPTY
+EMPTY
+EMPTY
+EMPTY
+EMPTY
+Heart Month
+Fish Factory V1
+Fish Factory V2
+Fish Factory UPPER
+Fish Factory LOWER
+Fish Factory CORE
+Fish Factory CARDIO
+Fish Factory 100
+FITMas
+Fish Challenge
+SpookFIT
+Knockout
+Valhalla
+Flex Forge
+Valha Broken
+EMPTY
+EMPTY
+EMPTY
+EMPTY
+EMPTY
+EMPTY
+ 
+#### FIT FACTORY CLASS HEX ####
+D49019
+73DB00
+E5E5E5
+4EA577
+000000
+000000
+000000
+000000
+000000
+DF4642
+4D8DBE
+4D8DBE
+82ACA1
+113C76
+F4BCCF
+EE9B76
+EB0D0D
+12461D
+4D8DBE
+FF9F10
+FF0000
+13548D
+A6AAB5
+13548D
+000000
+000000
+000000
+000000
+000000
+000000
+
+#### ADVENTURE MODE BANNER NAMES ####
+Adventure
+3.0 Launch
+FITMas
+Fuego
+Class5
+Class6
+Class7
+Prototype
+Class9
+shuffle
+Meadows 1
+Meadows 2
+Blue 1
+Blue 2
+SAT 1
+SAT 2
+Bonfire 1
+Bonfire 2
+Fuego
+Stretch
+CharJourney
+class22
+Class23
+Class24
+Class25
+Class26
+Class27
+woaa banner name
+Wowwiieee 29
+Class30
+
+#### ADVENTURE MODE BANNER HEX ####
+07c9f0
+fca815
+12461D
+fa938b
+000000
+000000
+000000
+000000
+000000
+ff0000
+000000
+000000
+000000
+000000
+000000
+000000
+000000
+000000
+FF5757
+000000
+000000
+000000
+000000
+000000
+000000
+000000
+000000
+FF5733
+000000
+000000
+
+#### ADVENTURE MODE VIDEO NAMES ####
+MM-A
+MM-B
+Blue-A
+Sat-A
+Sat-B
+BB-A
+BB-RACE
+ProtoBeach
+ProtoARC
+ARC Time Att
+Meadows Var-1
+FITMas Meadows
+Blue Var-1
+FITMas Blue
+SAT Var-1
+FITMas SAT
+Beach Var-1
+FITMas Beach
+Fuego
+Fuego Pre
+Blue Bossun
+Video22
+Video23
+Video24
+Video25
+Video26
+END FITMas
+END Fuego
+END-A
+END-B
+
+#### CONSOLE ENTITY ####
+RC
+
+#### CONSOLE MESSAGE #### use <br> instead of enter, message has to be on one line
+connection_established...<br><br>He-Hey! Is this thing on?<br>This new robotic body is kind of wild! <br>A-anyways...<br>I might have made a new technological discovery while you were all out exploring.<br>Something that might help us collect more Mighterium...Let me work up a prototype and I'll send it up soon!<br>END_MSG
+
+#### MEMBERS ####
+AyumiKoi;Beany`;Bossun21;Gawain!;KaWaii_Sku11;Kugo;Luxifinity;Mixieǃ;~Silentt~;-Axer-;1AGuy;aaliyah1023;AbbiDuckAvali;AriesLatte;Azell;beheheh;Bimler;blackout_avali;Celia Trestia;ChepFoorie;connortron;Cookie597;Couper;Crow_Se7en;CurtisVL;DaBloodyResh;Doruvon;DoubleDoubleD;DragonsofMania;Drakkius;Duest;ElegantPotato;EmberTalks;Eslaifer;EZZE;Feilen;FlareRune;Hangyaku;Heather May;Hex2906;King1656;Kire ｶｲｱ;Koi Fish Kai;Kyou Ki;Laskvurel;lavaglijder;LisActivElite;Medx_ii;Michael21D;MichelleDB;MiisterC;Mike Da Bird;Molly Lovewing;Nosjo;PartyBas;Pearsall;Polaris°;PrincessJess;RedVelvetCake;SamTheSilkie;Sapphirekatt;Shano Zen;SleepieDragon;Snow Totem;SpeedyNova115;Succubus Jade;Talii-bit;TechnoF0x;TehDerpinatorVR;Tizzy;tom2609;TonyMacaron1;Univision;VennyStar;W01fc1aw;Wall Flowrawr;~ Tori ~;~Tarky;Κitsune;ＳＴＡＲＢＯＹ©;zehith;Uncle Skeletor;Avionora;Chardora;miso-vr;Ryuji Hiroshi;MysticDash;RDSparkle;Coach Kugo;MetalGearWes;Soukiie;CookieFluffButt;DJ_Molly;ZaraRose;EinDev;SakuraNiji;LuleVEVO;IsmaDr;Hotoroti;Eric4bz;
+
+#### VIPs ####
+Visit TheMightyGym.com/Coaching to get VIP coaching from our staff of certified fitness professionals!;
+
+## END
